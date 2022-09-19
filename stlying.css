@@ -1,0 +1,39 @@
+.main{
+   
+    background-color:black;
+    height: 80;
+    width: 100;
+    
+
+}
+.div{
+    display: inline;
+    height: 50px;
+    width: 50px;
+   
+}
+ul{
+    list-style: none;
+}
+
+li{
+    color:white;
+    display: inline-block;
+    margin-left: 20px;
+
+}
+.form{
+    background-color:burlywood ;
+    border-style: groove;
+    width: 30%;
+    height: 180px;
+    margin-left:30% ;
+    text-align: center;
+    
+
+
+}
+.footer{
+    background-color: black;
+    height: 350px;
+}
